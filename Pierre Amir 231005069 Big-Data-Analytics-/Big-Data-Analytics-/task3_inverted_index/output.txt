@@ -1,0 +1,182 @@
+a	book_02.txt
+accuracy	book_01.txt
+across	book_01.txt
+advanced	book_02.txt
+aggregate	book_01.txt
+aggregation	book_05.txt
+all	book_01.txt
+an	book_04.txt
+analysis	book_02.txt, book_04.txt
+analytics	book_01.txt, book_04.txt
+and	book_01.txt, book_02.txt, book_03.txt, book_04.txt, book_05.txt
+another	book_02.txt
+are	book_03.txt
+before	book_03.txt, book_05.txt
+begin	book_02.txt
+behavior	book_05.txt
+big	book_02.txt
+by	book_03.txt
+can	book_01.txt, book_02.txt, book_05.txt
+careful	book_01.txt
+cases	book_04.txt
+casing	book_04.txt
+cause	book_05.txt
+cloud	book_03.txt
+combine	book_02.txt
+combiner	book_05.txt
+combiners	book_05.txt
+comparing	book_03.txt
+composite	book_02.txt
+confidence	book_04.txt
+contain	book_04.txt
+corpora	book_03.txt
+correctly	book_03.txt
+correctness	book_03.txt
+counting	book_01.txt
+counts	book_02.txt
+cross	book_05.txt
+custom	book_05.txt
+data	book_02.txt, book_03.txt
+datasets	book_05.txt
+debug	book_03.txt
+determinism	book_04.txt
+distributed	book_01.txt
+documents	book_04.txt
+duplicate	book_01.txt
+each	book_02.txt, book_04.txt
+edge	book_04.txt
+educational	book_03.txt
+emit	book_01.txt, book_02.txt
+empty	book_04.txt
+enables	book_03.txt
+engineers	book_03.txt
+execution	book_03.txt
+expected	book_03.txt
+experiments	book_04.txt
+extract	book_02.txt
+extraction	book_04.txt
+file	book_02.txt, book_05.txt
+files	book_05.txt
+for	book_02.txt, book_03.txt, book_05.txt
+framework	book_03.txt
+frequency	book_04.txt
+from	book_02.txt
+handling	book_01.txt
+helps	book_03.txt
+improve	book_04.txt
+in	book_04.txt
+include	book_04.txt
+includes	book_04.txt, book_05.txt
+independent	book_02.txt
+index	book_04.txt
+indexing	book_04.txt
+information	book_01.txt
+ingestion	book_02.txt
+input	book_01.txt
+intentionally	book_02.txt
+intermediate	book_01.txt, book_03.txt
+inverted	book_04.txt
+involve	book_05.txt
+is	book_03.txt
+it	book_04.txt
+key	book_01.txt
+keys	book_02.txt, book_05.txt
+keyword	book_04.txt
+language	book_04.txt
+large	book_01.txt
+letter	book_04.txt
+line	book_02.txt
+lines	book_04.txt
+log	book_02.txt
+logic	book_05.txt
+machines	book_01.txt
+many	book_01.txt, book_02.txt
+map	book_01.txt, book_05.txt
+mapper	book_02.txt
+mapreduce	book_03.txt
+maps	book_04.txt
+may	book_05.txt
+meaningful	book_02.txt
+mixed	book_04.txt
+multiple	book_05.txt
+network	book_05.txt
+noise	book_01.txt
+normalization	book_01.txt
+normalize	book_04.txt
+now	book_05.txt
+numbers	book_04.txt
+observed	book_03.txt
+of	book_01.txt
+often	book_02.txt
+outputs	book_02.txt
+own	book_03.txt
+pairs	book_01.txt
+parallel	book_03.txt
+parsing	book_02.txt
+partial	book_02.txt
+partitioned	book_03.txt
+partitioners	book_05.txt
+performance	book_05.txt
+phase	book_05.txt
+pipelines	book_02.txt
+plain	book_05.txt
+practice	book_03.txt, book_05.txt
+process	book_01.txt
+processing	book_03.txt
+projects	book_03.txt
+punctuation	book_04.txt
+read	book_02.txt
+reduce	book_01.txt, book_05.txt
+reducer	book_04.txt, book_05.txt
+reducers	book_02.txt
+reduction	book_03.txt
+reliable	book_01.txt
+remove	book_04.txt
+repeatable	book_04.txt
+repeats	book_02.txt
+repository	book_05.txt
+requires	book_01.txt
+results	book_03.txt
+same	book_01.txt
+sample	book_02.txt
+scalable	book_03.txt
+share	book_01.txt
+should	book_04.txt
+shuffle	book_05.txt
+shuffled	book_03.txt
+skewed	book_05.txt
+small	book_03.txt
+sorted	book_03.txt
+split	book_01.txt
+starts	book_03.txt
+storage	book_03.txt
+stragglers	book_05.txt
+students	book_01.txt, book_03.txt, book_04.txt
+supports	book_03.txt
+systems	book_01.txt
+tasks	book_01.txt
+term	book_04.txt
+terms	book_01.txt
+test	book_01.txt
+testing	book_02.txt, book_05.txt
+text	book_04.txt, book_05.txt
+that	book_01.txt, book_04.txt
+the	book_01.txt, book_04.txt, book_05.txt
+their	book_03.txt
+this	book_02.txt, book_05.txt
+to	book_04.txt
+tokenization	book_01.txt
+tokens	book_04.txt
+totals	book_03.txt
+traffic	book_05.txt
+tuning	book_05.txt
+unbalanced	book_05.txt
+validate	book_03.txt
+value	book_01.txt
+values	book_01.txt
+verifies	book_05.txt
+volumes	book_01.txt
+when	book_03.txt
+with	book_02.txt, book_03.txt, book_05.txt
+words	book_02.txt
+workloads	book_05.txt

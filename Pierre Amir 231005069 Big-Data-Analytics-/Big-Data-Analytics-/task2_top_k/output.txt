@@ -1,0 +1,10 @@
+and 12
+can 5
+for 4
+the 4
+words 4
+mapper 3
+reducer 3
+students 3
+with 3
+analysis 2
